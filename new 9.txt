@@ -1,0 +1,1 @@
+PM Scaffold-DbContext Server=DUNGVUSQLEXPRESS;Database=HRM;Integrated Security =True;TrustServerCerrtificate=True; Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
